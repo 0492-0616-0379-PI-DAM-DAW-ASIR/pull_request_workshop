@@ -59,3 +59,17 @@ Uso únicamente académico.
 
      * Pulsamos en _Create Pull Request_
 
+## Revisión
+
+1. El revisor se loguea en GitHub
+
+2. Una vez se accede al repo, en la barra superior aparecerán los PR pendientes.
+
+3. El PR puede haber sido asignado a un revisor determinado o que alguien del equipo tenga una solictud para aceptar ser el revisor de ese PR. En este caso el revisor puede asignarse a si mismo u optar por solictar a otro(s) revisor(es) que se encarguen de ese PR.
+
+4. Una vez está asignado, desde dentro del PR se puede acceder a la revisión.
+
+5. Aprobar el PR, hacer un comentario o solicitar cambios para que pueda ser aprobada en un futuro.
+
+6. Hacer la fusión con la rama principal. Para ello hay que elegir la estrategia de fusionado.
+
