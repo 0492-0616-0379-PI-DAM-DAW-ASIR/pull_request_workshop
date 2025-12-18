@@ -9,4 +9,4 @@
 | 5  | [I Don't Wanna Miss a Thing](https://www.youtube.com/watch?v=ujMxXOHJloI) | Aerosmith | DAW  | GGP |
 | 6  | [I Don't Wanna Miss a Thing](https://www.youtube.com/watch?v=ujMxXOHJloI) | Aerosmith | DAW  | BGP |
 | 7  | [Moonlight Shadow](https://www.youtube.com/watch?v=ujMxXOHJloI) | Aerosmith | DAW  | GGP |
-| 8 | [Time](https://www.youtube.com/watch?v=JwYX52BP2Sk) | Pink Floyd | DAM | MGF |
+| 8 | [Don't Fear The Reaper](https://www.youtube.com/watch?v=Dy4HA3vUv2c) | Blue Öyster Cult | DAM | MGF |
