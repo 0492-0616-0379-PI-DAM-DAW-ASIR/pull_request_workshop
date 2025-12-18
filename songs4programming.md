@@ -9,4 +9,4 @@
 | 5  | [I Don't Wanna Miss a Thing](https://www.youtube.com/watch?v=ujMxXOHJloI) | Aerosmith | DAW  | GGP |
 | 6  | [I Don't Wanna Miss a Thing](https://www.youtube.com/watch?v=ujMxXOHJloI) | Aerosmith | DAW  | BGP |
 | 7  | [Moonlight Shadow](https://www.youtube.com/watch?v=ujMxXOHJloI) | Aerosmith | DAW  | GGP |
-
+| 8  | [Golden](https://www.youtube.com/watch?v=htk6MRjmcnQ) | Huntrix | DAM | LNI |
